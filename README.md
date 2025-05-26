@@ -57,7 +57,7 @@ me.say_hi()
 🎯 Diving deep into the latest computer vision research<br>
 🧠 Experimenting with neural network architectures<br>
 ⚙️ Learning more about 3D CV and Robotics<br>
-✍️ Writing tech blogs so that I can catch up with stuff when I forget<br><br>
+✍️ Writing tech blogs so that I can rebrush stuff when I forget<br><br>
 
 </td>
 
@@ -115,17 +115,6 @@ me.say_hi()
 ```
 🎲 Chessboard calibration → RMS error: 0.121 → Lightning fast results
 ```
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushsaraswat&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsaraswat&layout=compact&langs_count=7&theme=radical"/>
 
 </div>
  
