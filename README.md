@@ -126,10 +126,10 @@ me.say_hi()
 
 ### 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ayushsaraswat)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ayushsaraswat)
-[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=Hashnode&logoColor=white)](https://hashnode.com/@ayushsaraswat)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ayushsaraswat@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ayush-saraswat-4b47b9275/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Ayush26_twt)
+[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=Hashnode&logoColor=white)](https://flashblog.hashnode.dev/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ayushsaraswat2615@gmail.com)
 
 ---
 
